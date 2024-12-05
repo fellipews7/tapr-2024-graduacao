@@ -1,0 +1,17 @@
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Application.deps.json
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Application.dll
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Application.pdb
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Data.dll
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Domain.dll
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Data.pdb
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\bin\Debug\net7.0\Domain.pdb
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.dll
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\Application.pdb
+D:\Univille\tapr-2024-turmab-mestrado\host\Application\obj\Debug\net7.0\ref\Application.dll
